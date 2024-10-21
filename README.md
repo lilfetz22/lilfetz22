@@ -1,4 +1,4 @@
-<h1>Hi, I'm Billy Fetzner! <br/><a href="https://github.com/lilfetz22">GitHub</a>, <a href="https://www.linkedin.com/in/william-fetzner-480817269/">LinkedIn</a></h1>
+<h1>Hi, I'm Billy Fetzner!👋 <br/><a href="https://github.com/lilfetz22">GitHub</a>, <a href="https://www.linkedin.com/in/william-fetzner-480817269/">LinkedIn</a></h1> 
 
 <h2>📊 Data Science Professional Projects:</h2>
 
