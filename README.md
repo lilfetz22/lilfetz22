@@ -3,9 +3,12 @@
 <h2>📊 Data Science Professional Projects:</h2>
 
 <h3> CVS Project </h3>
+
 - <b>Safety Stock Optimization (Monte Carlo Simulation)</b>
   - [Optimizing Safety Stock at CVS](https://github.com/lilfetz22/Safety_Stock_Optimization)
+
 <h3> Q-Centrix Projects </h3>
+
 - <b>Report Automation (Python, Regressions, and Classifications)</b>
   - [Automation of reports](https://github.com/lilfetz22/QC_projects/tree/main/Report%20Automation)
 - <b>Ops Plan and Planning Tool (R, Excel Macros, Excel VBA)</b>
