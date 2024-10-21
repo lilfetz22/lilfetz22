@@ -11,11 +11,6 @@ This portfolio showcases a selection of my professional and personal projects, d
 
 \* ***All company-specific and sensitive information has been removed from these repositories to maintain confidentiality and protect proprietary data.*** *
 
-<h3> CVS Project </h3>
-
-- <b>Safety Stock Optimization (Monte Carlo Simulation)</b>
-  - [Optimizing Safety Stock at CVS](https://github.com/lilfetz22/Safety_Stock_Optimization)
-
 <h3> Q-Centrix Projects </h3>
 
 - <b>Report Automation (Python, Regressions, and Classifications)</b>
