@@ -7,21 +7,6 @@ My background as an educator has sharpened my ability to communicate technical c
 
 This portfolio showcases a selection of my professional and personal projects, demonstrating my versatility across industries and technologies. I invite you to explore my work and see how I can bring value to your data science initiatives.
 
-<h2>📊 Data Science Professional Projects:</h2>
-
-\* ***All company-specific and sensitive information has been removed from these repositories to maintain confidentiality and protect proprietary data.*** *
-
-<h3> Q-Centrix Projects </h3>
-
-- <b>Report Automation (Python, Regressions, and Classifications)</b>
-  - [Automation of reports](https://github.com/lilfetz22/QC_projects/tree/main/Report%20Automation)
-- <b>Ops Plan and Planning Tool (R, Excel Macros, Excel VBA)</b>
-  - [Daily Reports with 20+ Slicers](https://github.com/lilfetz22/QC_projects/tree/main/Ops%20Plan%20%26%20Planning%20Tool)
-- <b>Email Automation Tight Deadline (Python, Excel VBA, Outlook, AutoHotKey)</b>
-  - [Encrypted Email Automation](https://github.com/lilfetz22/QC_projects/tree/main/SFTP%20automation)
-- <b>Excel Comparisons (Python, Excel)</b>
-  - [Comparison of Reports](https://github.com/lilfetz22/QC_projects/tree/main/Excel%20Comparison)
-
 <h2>📈 Personal Data Science Projects</h2>
 
 - [Trading](https://github.com/lilfetz22/Trading)
