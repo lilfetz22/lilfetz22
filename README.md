@@ -7,6 +7,13 @@ My background as an educator has sharpened my ability to communicate technical c
 
 This portfolio showcases a selection of my professional and personal projects, demonstrating my versatility across industries and technologies. I invite you to explore my work and see how I can bring value to your data science initiatives.
 
+<h2>👨‍💻 Personal Projects</h2>
+
+- [Chroma-Parse-Notes](https://github.com/lilfetz22/chroma-parse-notes)
+- [Audio Digest Hub](https://github.com/lilfetz22/audio-digest-hub)
+- [Baby Cam App](https://github.com/lilfetz22/iwatch-tot-talk)
+- [VS Code Extension](https://github.com/lilfetz22/vscode-notes)
+
 <h2>📈 Personal Data Science Projects</h2>
 
 - [Trading](https://github.com/lilfetz22/Trading)
@@ -14,11 +21,6 @@ This portfolio showcases a selection of my professional and personal projects, d
 - [City Health Scores](https://github.com/lilfetz22/Health_Scores_CAP2)
 - [Reddit Sentiment Analysis](https://github.com/lilfetz22/Reddit_sentiment_analysis)
 - [Springboard Projects](https://github.com/lilfetz22/Springboard_Project_Portfolio)
-
-
-<h2>👨‍💻 Personal Projects</h2>
-
-- [VS Code Extension](https://github.com/lilfetz22/vscode-notes)
 
 <h2> 🤳 Connect with me:</h2>
 
