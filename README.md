@@ -9,6 +9,7 @@ This portfolio showcases a selection of my professional and personal projects, d
 
 <h2>👨‍💻 Personal Projects</h2>
 
+- [VSCode-Chroma-Workspace-Extension](https://github.com/lilfetz22/vscode-chroma-workspace-extension)
 - [Chroma-Parse-Notes](https://github.com/lilfetz22/chroma-parse-notes)
 - [Audio Digest Hub](https://github.com/lilfetz22/audio-digest-hub)
 - [Baby Cam App](https://github.com/lilfetz22/iwatch-tot-talk)
@@ -16,6 +17,7 @@ This portfolio showcases a selection of my professional and personal projects, d
 
 <h2>📈 Personal Data Science Projects</h2>
 
+- [LinkedIn Post Automation Multi-Agent](https://github.com/lilfetz22/linkedIn-post-automation-multi-agent)
 - [Trading](https://github.com/lilfetz22/Trading)
 - [NC Rainfall Predictions](https://github.com/lilfetz22/NCRainfallPredictions_CAP1)
 - [City Health Scores](https://github.com/lilfetz22/Health_Scores_CAP2)
